@@ -1,0 +1,15 @@
+"hungerv1"
+{
+	"base"		"sandbox"
+    "title"  "Hunger Games"
+    "version"   "1.0"
+    "menusystem"	"1"
+
+    "author_name"   "Frozen Odyssey"
+    "author_email"  "admin@frozenodyssey.com"
+    "author_url"    "https://frozenodyssey.com"
+
+    "icon"  ""
+    "info"  ""
+    "hide"  "0"
+}
